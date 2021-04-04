@@ -1,0 +1,22 @@
+- [x] Add home page
+- [x] Add research page
+- [x] Add people page
+- [x] Add links page
+- [x] Add contact page
+- [x] Add papers page
+- [x] Add lab pics page
+- [x] Add lab art page
+- [x] Add scientific news page
+
+- [ ] add additional navigation (people page and news page)
+
+- [ ] prep all images as needed
+- [ ] Add home page content
+- [ ] Add research page content
+- [ ] Add people page content
+- [ ] Add links page content
+- [ ] Add contact page content
+- [ ] Add papers page content
+- [ ] Add lab pics page content
+- [ ] Add lab art page content
+- [ ] Add scientific news page content

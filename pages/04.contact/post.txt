@@ -1,0 +1,25 @@
+title: Contact
+
+-
+
+date: 2021-03-29 18:20:55
+
+-
+
++main: {"time":1617060293273,"blocks":[{"type":"paragraph","data":{"text":"This is the contact page","large":false}},{"type":"image","data":{"url":"aminochart.jpg","caption":"","stretched":false}}],"version":"2.18.0"}
+
+-
+
+brand: The Roy Lab at UofT
+
+-
+
+checkboxHideInMenu: 1
+
+-
+
+checkboxShowInFooter: 1
+
+-
+
+checkboxShowInNavbar: 1

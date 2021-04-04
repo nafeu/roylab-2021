@@ -6,7 +6,8 @@
 			"background-image": "url('/pages/@{ imageHeader }')",
 			"background-size": "cover",
 	    "background-repeat": "no-repeat",
-	    "background-position": "center"
+	    "background-position": "center",
+	    "background-color": "black"
 		});
 	});
 </script>

@@ -1,0 +1,25 @@
+title: Lab Art
+
+-
+
++main: {"time":1617062542110,"blocks":[{"type":"gallery","data":{"globs":"*lab-art.jpg, *lab-art.png, *lab-art.gif","width":250,"stretched":true,"cleanBottom":true}}],"version":"2.18.0"}
+
+-
+
+brand: The Roy Lab at UofT
+
+-
+
+checkboxHideInMenu: 1
+
+-
+
+checkboxHidePrevNextNav: 1
+
+-
+
+checkboxShowInNavbar: 1
+
+-
+
+checkboxUseAlternativePagelistLayout: 1

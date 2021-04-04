@@ -1,0 +1,25 @@
+title: Lab Pics
+
+-
+
++main: {"time":1617057220585,"blocks":[{"type":"gallery","data":{"globs":"*lab-pics.jpg","width":250,"stretched":true,"cleanBottom":true}}],"version":"2.18.0"}
+
+-
+
+brand: The Roy Lab at UofT
+
+-
+
+checkboxHideInMenu: 0
+
+-
+
+checkboxHidePrevNextNav: 1
+
+-
+
+checkboxShowInNavbar: 0
+
+-
+
+checkboxUseAlternativePagelistLayout: 1

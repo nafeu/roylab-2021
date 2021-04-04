@@ -1,0 +1,21 @@
+title: News
+
+-
+
+date: 2021-03-29 18:19:16
+
+-
+
+brand: The Roy Lab at UofT
+
+-
+
+checkboxHidePrevNextNav: 1
+
+-
+
+checkboxShowInNavbar: 1
+
+-
+
+checkboxUseAlternativePagelistLayout: 0

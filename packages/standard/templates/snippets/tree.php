@@ -20,9 +20,9 @@
 	<@~ end @>
 <@~ end ~@>
 <# Create new pagelist including all children adapting to the current context. #>
-<@~ newPagelist { 
+<@~ newPagelist {
 	type: 'children',
-	excludeHidden: false 
+	excludeHidden: false
 } ~@>
 <# Change context to the homepage #>
 <@~ with "/" @>
@@ -34,5 +34,5 @@
 		</ul>
 	<@~ end @>
 	<# Call recursive tree snippet #>
-	<@~ tree @>	
+	<@~ tree @>
 <@~ end @>

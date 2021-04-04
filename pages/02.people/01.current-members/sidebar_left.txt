@@ -1,0 +1,13 @@
+title: Current Members
+
+-
+
+date: 2021-03-29 18:37:20
+
+-
+
++main: {"time":1617061457592,"blocks":[{"type":"raw","data":{"code":"<img align=\"right\" width=\"400\" height=\"400\" style=\"padding-right: 1em; transform: scaleX(-1);\" src=\"/pages/02.people/01.current-members/bio-peter-roy.jpg\">"}},{"type":"header","data":{"text":"Peter Roy 2","level":4}},{"type":"paragraph","data":{"text":"Principle Investigator","large":false}},{"type":"paragraph","data":{"text":"Roy lab member since October, 2003<br>Peter, who was born and raised a Maritimer, earned his B.Sc. from Dalhousie University (1993). &nbsp;It was at the beginning of his Ph.D. at University of Toronto (1999) that Peter first learned of the power of&nbsp;C. elegans&nbsp;genetics and he has been exploiting it ever since. &nbsp;From 1999 to 2002 Peter learned high-throughput genomic skills as a Beckman Post-Doctoral Fellow at Stanford University. &nbsp;Since staring his lab, Peter and his group has made pioneering discoveries about how cells and cell-extensions are guided to their target destination during animal development. &nbsp;He was also one of the first to exploit the nematode&nbsp;C. elegans&nbsp;as a high-throughput platform for the discovery of novel small molecule tools and potential drug-leads. &nbsp;Peter received tenure in 2007 and became a Full Professor in 2012.&nbsp;","large":false}},{"type":"delimiter","data":{}},{"type":"raw","data":{"code":"<img align=\"left\" width=\"400\" height=\"400\" style=\"padding-right: 1em;\" src=\"/pages/02.people/01.current-members/bio-andrew-burns.jpg\">"}},{"type":"header","data":{"text":"Peteer Roy","level":4}},{"type":"paragraph","data":{"text":"Principal Investigator","large":false}},{"type":"paragraph","data":{"text":"Roy lab member since October, 2002<br>Peter, who was born and raised a Maritimer, earned his B.Sc. from Dalhousie University (1993). &nbsp;It was at the beginning of his Ph.D. at University of Toronto (1999) that Peter first learned of the power of&nbsp;C. elegans&nbsp;genetics and he has been exploiting it ever since. &nbsp;From 1999 to 2002 Peter learned high-throughput genomic skills as a Beckman Post-Doctoral Fellow at Stanford University. &nbsp;Since staring his lab, Peter and his group has made pioneering discoveries about how cells and cell-extensions are guided to their target destination during animal development. &nbsp;He was also one of the first to exploit the nematode&nbsp;C. elegans&nbsp;as a high-throughput platform for the discovery of novel small molecule tools and potential drug-leads. &nbsp;Peter received tenure in 2007 and became a Full Professor in 2012.&nbsp;","large":false}}],"version":"2.18.0"}
+
+-
+
+brand: The Roy Lab at UofT

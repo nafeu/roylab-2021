@@ -10,11 +10,15 @@ date: 2017-06-28 12:00:00
 
 -
 
-+main: {"time":1617041435462,"blocks":[{"type":"header","data":{"text":"Welcome to Peter Roy's Chemical-Genetics Lab at the University of Toronto.","level":2}},{"type":"raw","data":{"code":"<img align=\"right\" width=\"400\" height=\"400\" style=\"padding-left: 1em\" src=\"/pages/7.jpg\">"}},{"type":"paragraph","data":{"text":"The Roy Lab is focused on the development of new drugs to treat nematode parasites that currently infect over two billion people.","large":false}},{"type":"paragraph","data":{"text":"Parasitic nematodes cause anemia, blindness, paralysis, and death etc. Because nematodes have evolved resistance to nearly every anthelmintic (anti-worm) drug on the market, there is a clear need to develop new compounds that kill parasitic worms.","large":false}},{"type":"paragraph","data":{"text":"The Roy lab uses the tractable non-parasitic nematode worm Caenorhabditis elegans as a model system. We have developed unique screening methodologies, and capitalize on genetic, genomic, proteomic and analytical chemistry methods to identify new compounds and targets to treat nematode infection. We have built an international network of collaborators to help us develop our hits into lead molecules for further drug development.","large":false}},{"type":"buttons","data":{"primaryText":"Learn More","primaryLink":"/research","secondaryText":"<br>","secondaryLink":"","alignment":"left"}}],"version":"2.18.0"}
++main: {"time":1617060101325,"blocks":[{"type":"header","data":{"text":"Welcome to Peter Roy's Chemical-Genetics Lab at the University of Toronto.","level":2}},{"type":"raw","data":{"code":"<img align=\"right\" width=\"400\" height=\"400\" style=\"padding-right: 1em; transform: scaleX(-1);\" src=\"/pages/peter.jpg\">"}},{"type":"paragraph","data":{"text":"The Roy Lab is focused on the development of new drugs to treat nematode parasites that currently infect over two billion people.","large":false}},{"type":"paragraph","data":{"text":"Parasitic nematodes cause anemia, blindness, paralysis, and death etc. Because nematodes have evolved resistance to nearly every anthelmintic (anti-worm) drug on the market, there is a clear need to develop new compounds that kill parasitic worms.","large":false}},{"type":"paragraph","data":{"text":"The Roy lab uses the tractable non-parasitic nematode worm Caenorhabditis elegans as a model system. We have developed unique screening methodologies, and capitalize on genetic, genomic, proteomic and analytical chemistry methods to identify new compounds and targets to treat nematode infection. We have built an international network of collaborators to help us develop our hits into lead molecules for further drug development.","large":false}},{"type":"buttons","data":{"primaryText":"Learn More","primaryLink":"/research","secondaryText":"<br>","secondaryLink":"","alignment":"left"}},{"type":"delimiter","data":{}},{"type":"image","data":{"url":"peter.jpg","caption":"","stretched":false}}],"version":"2.18.0"}
 
 -
 
 brand: The Roy Lab at UofT
+
+-
+
+checkboxHideInMenu: 1
 
 -
 
@@ -30,7 +34,7 @@ colorText: #000000
 
 -
 
-imageHeader: 7.jpg
+imageHeader: home.jpg
 
 -
 
