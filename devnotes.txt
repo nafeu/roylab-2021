@@ -1,22 +1,34 @@
-- [x] Add home page
-- [x] Add research page
-- [x] Add people page
-- [x] Add links page
-- [x] Add contact page
-- [x] Add papers page
-- [x] Add lab pics page
-- [x] Add lab art page
-- [x] Add scientific news page
+Questions for Peter:
 
-- [ ] add additional navigation (people page and news page)
+- What images to use as the headers?
+- What would you like instructions or videos on?
+- What to place in the People page? (new or old picture?)
+- What images for the research page?
 
-- [ ] prep all images as needed
-- [ ] Add home page content
-- [ ] Add research page content
-- [ ] Add people page content
-- [ ] Add links page content
-- [ ] Add contact page content
-- [ ] Add papers page content
-- [ ] Add lab pics page content
-- [ ] Add lab art page content
-- [ ] Add scientific news page content
+- work on the site while its not live
+- deploy roylab to staging site and send peter links
+- redirect people link to current members page
+- for research page
+  - don't need lander (discovering)
+  - everytime I added a header in a section it would become a side menu item
+
+instructional video
+  - show how to set up left bar navigation just like the people + news pages
+  - show how to toggle pages (hide)
+
+- persist the two columns for the Lab News
+  - left column for lab news
+  - right column for pop news
+  - make the header text bigger and add a shadow
+- make sure the menu shows on the phone
+
+.uk-navbar-brand {
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 8px #000000;
+}
+
+.uk-navbar-nav ul li a {
+  line-height: 88px;
+  font-size: 1.25rem;
+  text-shadow: 2px 2px 8px #000000;
+}

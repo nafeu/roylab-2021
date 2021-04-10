@@ -1,4 +1,4 @@
-<?php 
+<?php
 /*
  *	                  ....
  *	                .:   '':.
@@ -23,7 +23,7 @@
  *	             ::::   ::::    ..''
  *	             :::: ..:::: .:''
  *	               ''''  '''''
- *	
+ *
  *
  *	AUTOMAD
  *
@@ -55,16 +55,16 @@ defined('AUTOMAD') or die('Direct access not permitted!');
 class Gallery {
 
 
-	/**	
+	/**
 	 *	Render a gallery block.
-	 *	
+	 *
 	 *	@param object $data
 	 *	@param object $Automad
 	 *	@return string the rendered HTML
 	 */
 
 	public static function render($data, $Automad) {
-		
+
 		$masonryRowHeight = 50;
 		$defaults = array(
 			'globs' => '*.jpg, *.png, *.gif',
@@ -98,11 +98,11 @@ class Gallery {
 				$cleanBottom = ' am-gallery-masonry-clean-bottom';
 			}
 
-			$html = '<figure ' . $figureAttr . '>' . 
-					$style . 
+			$html = '<figure ' . $figureAttr . '>' .
+					$style .
 					'<div class="am-gallery-masonry' . $cleanBottom . '" style="--am-gallery-item-width:' . $data->width . 'px">';
 
-			foreach ($files as $file) {
+			foreach (array_reverse($files) as $file) {
 
 				$Image = new Image($file, 2 * $data->width);
 				$caption = Str::stripTags(Parse::caption($file));
@@ -110,7 +110,7 @@ class Gallery {
 				$span = round($Image->height / ($masonryRowHeight * 2) );
 
 				$html .= <<< HTML
-						<div 
+						<div
 						class="am-gallery-masonry-item"
 						style="--am-gallery-masonry-rows: $span;"
 						>
