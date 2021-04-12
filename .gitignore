@@ -27,3 +27,4 @@ lib/vendor/michelf/php-markdown/.travis.yml
 lib/vendor/michelf/php-markdown/phpunit.xml.dist
 phpunit-*.phar
 .DS_Store
+devnotes.txt

@@ -9,6 +9,20 @@
 	    "background-position": "center",
 	    "background-color": "black"
 		});
+
+		$('.uk-navbar-brand').css({
+		  "textShadow": "2px 2px 8px #000000"
+		});
+
+		$('.uk-navbar-nav-a').css({
+		  "textShadow": "2px 2px 8px #000000"
+		});
+
+		$('.navbar-toggle span').css({
+		  "backgroundColor": "white"
+		});
+
+		console.log($('.navbar-toggle span'));
 	});
 </script>
 
@@ -43,7 +57,7 @@
 						<@~ foreach in pagelist ~@>
 							<@ if @{ checkboxShowInNavbar } ~@>
 								<li<@ if @{ :current } @> class="uk-active"<@ end @>>
-									<a href="@{ url }" style="color: white;">@{ title }</a>
+									<a class="uk-navbar-nav-a" href="@{ url }" style="color: white;">@{ title }</a>
 								</li>
 							<@~ end @>
 						<@~ end ~@>
@@ -60,7 +74,8 @@
 							</svg>
 						</a>
 					<@ end @> -->
-<!-- 					<a
+					<a
+					id="#navbar-lines"
 					href="#modal-nav"
 					class="navbar-toggle uk-navbar-content @{ :classNav }"
 					data-modal-toggle="#modal-nav"
@@ -68,7 +83,7 @@
 						<span aria-hidden="true"></span>
 						<span aria-hidden="true"></span>
 						<span aria-hidden="true"></span>
-					</a> -->
+					</a>
 					<# Modal with site tree and search. #>
 					<div id="modal-nav" class="uk-modal">
 						<div class="uk-modal-dialog uk-modal-dialog-blank">

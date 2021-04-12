@@ -2,6 +2,10 @@ title: News
 
 -
 
++main: {"time":1618191160441,"blocks":[{"type":"paragraph","data":{"text":"Add all of your news here, this is a single column text + image layout.","large":false}}],"version":"2.18.0"}
+
+-
+
 brand: The Roy Lab at UofT
 
 -

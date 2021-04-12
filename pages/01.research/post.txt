@@ -14,7 +14,7 @@ brand: The Roy Lab at UofT
 
 -
 
-checkboxHideInMenu: 1
+checkboxHideInMenu: 0
 
 -
 
