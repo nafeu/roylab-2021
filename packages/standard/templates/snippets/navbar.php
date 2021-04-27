@@ -3,7 +3,7 @@
 <script>
 	$(document).ready(() => {
 		$('#background-header').css({
-			"background-image": "url('/pages/@{ imageHeader }')",
+			"background-image": "url('/pages/@{ :basename }/@{ imageHeader }')",
 			"background-size": "cover",
 	    "background-repeat": "no-repeat",
 	    "background-position": "center",
@@ -21,8 +21,6 @@
 		$('.navbar-toggle span').css({
 		  "backgroundColor": "white"
 		});
-
-		console.log($('.navbar-toggle span'));
 	});
 </script>
 
